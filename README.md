@@ -13,9 +13,9 @@ Learning something new every day.
 
 ## 📊 GitHub Stats
 
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pshrey4&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pshrey4&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pshrey4&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pshrey4&layout=compact&theme=transparent)
 
 ## 🐍 Contribution Snake
 
