@@ -10,3 +10,7 @@ Convincing computers to do useful things.
 ---
 
 Learning something new every day.
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Pshrey4/Pshrey4/blob/output/github-contribution-grid-snake.svg)
